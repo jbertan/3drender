@@ -1,7 +1,4 @@
 node_modules
-
 /3dclient/node_modules
-
 .env
 /build
-3dclient/build
